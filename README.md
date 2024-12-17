@@ -1,6 +1,6 @@
 ## Hello at my page!
 
-# My main page.
+# My main website.
  https://mirovl.github.io/mirovl/
 
 
